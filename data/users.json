@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": "4bff51b6-2aa8-4272-8bc9-e903cc1867cf",
+    "name": "Wissam",
+    "email": "Wissam@gmail.com",
+    "borrowed_items": []
+  },
+  {
+    "user_id": "7f4f13b7-7b98-4875-b7a5-83d8113eb99e",
+    "name": "Arwa",
+    "email": "Arwa@gmail.com",
+    "borrowed_items": []
+  },
+  {
+    "user_id": "95aeb386-8efc-443c-8833-03c757247b4e",
+    "name": "Saad",
+    "email": "Saad@gmail.com",
+    "borrowed_items": []
+  },
+  {
+    "user_id": "b2b53db7-b7f4-4da1-9641-476cbbe951f2",
+    "name": "Ahmad",
+    "email": "Ahmad@gmail.com",
+    "borrowed_items": []
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "type": "DVD",
+    "data": {
+      "item_id": "d001",
+      "title": "The Matrix",
+      "author": "Wachowski",
+      "duration": "136 minutes"
+    },
+    "available": true
+  },
+  {
+    "type": "Book",
+    "data": {
+      "item_id": "e5ab3a70-9fc7-4f8a-b0c3-2e890ff43f4a",
+      "title": "CPP",
+      "author": "Cormer",
+      "genre": "Computer Science"
+    },
+    "available": true
+  },
+  {
+    "type": "DVD",
+    "data": {
+      "item_id": "ad9ad154-9abf-43a1-a4b6-6617bbcd1185",
+      "title": "Inception",
+      "author": "Christopher Nolan",
+      "duration": "148 minutes"
+    },
+    "available": true
+  },
+  {
+    "type": "Magazine",
+    "data": {
+      "item_id": "80c5396c-0300-4747-94d8-212dbe77dea7",
+      "title": "National Geographic",
+      "author": "Various",
+      "issue": "July 2025"
+    },
+    "available": true
+  }
+]
